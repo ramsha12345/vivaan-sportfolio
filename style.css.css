@@ -1,0 +1,20 @@
+#myCarousel
+{
+    background-color: rgba(17, 60, 77, 0.342);
+}
+
+#myCarousel img
+{
+  height: 50%;
+    width:50%;
+    
+    object-fit: fill;
+}
+
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
